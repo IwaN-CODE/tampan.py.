@@ -1,0 +1,2 @@
+# tampan.py.
+TANYA jAWAB
